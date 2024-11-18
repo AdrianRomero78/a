@@ -1,7 +1,38 @@
-{
-  "nombre": "Juan Pérez",
-  "telefono": "1234567890",
-  "modelo": "iPhone 12",
-  "descripcion": "Pantalla rota",
-  "fecha": "01/11/2024"
-}
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Adrian Romero",
+    "body": "Pantalla completamente rota. Se necesita un reemplazo con protección adicional."
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Akane Nabiki",
+    "body": "El altavoz no funciona correctamente; el sonido es muy bajo o distorsionado."
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Ricardo Rodríguez",
+    "body": "La batería no dura más de 2 horas y el dispositivo se apaga inesperadamente."
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Nahomi Paola",
+    "body": "El puerto de carga está suelto; el dispositivo no carga correctamente."
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Efrén Alonso",
+    "body": "El botón de inicio no responde al tacto, está hundido o atascado."
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Marioso Estrada",
+    "body": "El dispositivo no mantiene la conexión WiFi o tiene problemas para conectarse."
+  }
+]
